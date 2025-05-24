@@ -1,0 +1,47 @@
+mtkclient：
+简介：逆向工程和 Flash 工具（需要联发科CPU）
+下载（官方）：https://github.com/bkerler/mtkclient/releases/latest
+部分用法：https://www.coolapk.com/feed/32245663
+
+
+mtkclientlib：
+简介：mtkclient运行所需必备的驱动，包含Python，UsbDk,winfsp
+下载（官方）：
+python：   https://www.python.org/
+UsbDk：    https://github.com/daynix/UsbDk/releases/latest
+winfsp：    https://winfsp.dev/rel/
+
+
+platform-tools：
+简介：Android SDK 平台工具软件包(包含adb&fastboot)。注：从Windows 10开始windows已经集成了ADB驱动
+下载（官方）：https://developer.android.google.cn/tools/releases/platform-tools
+https://googledownloads.cn/android/repository/platform-tools-latest-windows.zip
+
+
+搞机工具箱：
+简介：一款利用ADB (安卓调试桥）来控制手机的玩机工具。
+为什么选择《搞机工具箱》？
+
+免ROOT:
+所有功能均无需ROOT，Android全机型通用
+
+简洁易用:
+全图形化界面，一键操作，告别手打代码
+
+真正小而美:
+原生开发、超小体积、超快启动、无需安装、解压即用
+
+通俗易懂:
+各功能说明清晰，配合图文视频等引导教程，新手轻松入门
+
+无需UAC:
+自带ADB组件，无需管理员权限，可在网吧等公用电脑完美使用
+
+隐私保护:
+完全单机，无任何联网功能
+下载（官方）：https://jamcz.com/gjgjx/
+
+
+搞机助手：
+简介：目前开发功能有：Twrp recovery全自动刷机，免Root冻结、卸载预装软件，免Root激活，反向共享PC网络，刷入Recovery，小米线刷，无线ADB连接，Sideload刷机，ADB文件浏览器，应用下载及安装，推送任意格式文件等，更多功能和玩法等你来体验。
+下载（官方）：https://lsdy.top/gjzs
